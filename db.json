@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "newuser",
+      "password": "password456",
+      "email": "new@example.com"
+    },
+    {
+      "id": "5a05",
+      "username": "Wassabi",
+      "password": "fgfgfgffdg",
+      "email": "barclaykoin+friends@gmail.com"
+    },
+    {
+      "id": "7287",
+      "username": "barclay.koin@moringaschool.com",
+      "password": "987654",
+      "email": "barclay.koin+friends@moringaschool.com"
+    },
+    {
+      "id": "7bca",
+      "username": "Wassabi56",
+      "password": "sd653g",
+      "email": "wassabi@locat.com"
+    },
+    {
+      "id": "74f8",
+      "username": "w35",
+      "password": "f67890-",
+      "email": "e@w.c"
+    }
+  ]
+}
